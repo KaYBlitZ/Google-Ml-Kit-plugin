@@ -1,5 +1,7 @@
 # Google's ML Kit Flutter Plugin
 
+Adapted to only have text recognition v1
+
 [![Pub Version](https://img.shields.io/pub/v/google_ml_kit)](https://pub.dev/packages/google_ml_kit)
 
 A Flutter plugin to use [Google's standalone ML Kit](https://developers.google.com/ml-kit) for Android and iOS.
@@ -11,24 +13,6 @@ A Flutter plugin to use [Google's standalone ML Kit](https://developers.google.c
 | Feature                                                                                       | Android | iOS |
 |-----------------------------------------------------------------------------------------------|---------|-----|
 |[Text Recognition](https://developers.google.com/ml-kit/vision/text-recognition)               | ✅      | ✅  |
-|[Face Detection](https://developers.google.com/ml-kit/vision/face-detection)                   | ✅      | ✅  |
-|[Pose Detection](https://developers.google.com/ml-kit/vision/pose-detection)                   | ✅      | ✅  |
-|[Selfie Segmentation](https://developers.google.com/ml-kit/vision/selfie-segmentation)         | yet     | yet |
-|[Barcode Scanning](https://developers.google.com/ml-kit/vision/barcode-scanning)               | ✅      | ✅  |
-|[Image Labelling](https://developers.google.com/ml-kit/vision/image-labeling)                  | ✅      | ✅  |
-|[Object Detection and Tracking](https://developers.google.com/ml-kit/vision/object-detection)  | ✅      | yet |
-|[Digital Ink Recognition](https://developers.google.com/ml-kit/vision/digital-ink-recognition) | ✅      | ✅  |
-|[Text Detector V2](https://developers.google.com/ml-kit/vision/text-recognition/v2)            | ✅      | yet |
-|[Text Recognition V2](https://developers.google.com/ml-kit/vision/text-recognition/v2)         | ✅      | yet |
-
-### Natural Language
-
-| Feature                                                                                       | Android | iOS |
-|-----------------------------------------------------------------------------------------------|---------|-----|
-|[Language Identification](https://developers.google.com/ml-kit/language/identification)        | ✅      | ✅  |
-|[On-Device Translation](https://developers.google.com/ml-kit/language/translation)             | ✅      | yet |
-|[Smart Reply](https://developers.google.com/ml-kit/language/smart-reply)                       | ✅      | yet |
-|[Entity Extraction](https://developers.google.com/ml-kit/language/entity-extraction)           | ✅      | yet |
 
 ## Requirements
 
